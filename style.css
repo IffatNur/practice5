@@ -1,0 +1,8 @@
+.panda-bg{
+    background-color: #feeae9;
+}
+.panda-btn{
+    background-image: linear-gradient(rgb(248, 1, 153),rgb(245, 5, 209));
+    padding: 3% 15%;
+    color: white;
+}
